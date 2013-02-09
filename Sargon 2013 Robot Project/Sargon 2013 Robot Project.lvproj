@@ -668,6 +668,14 @@ KeepAliveTimeout 60
 				<Item Name="NT Write String Array.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/Network Tables/NT Write String Array.vi"/>
 				<Item Name="WPI_RobotDriveTankDrive.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/RobotDrive/WPI_RobotDriveTankDrive.vi"/>
 				<Item Name="SD Write Boolean Array.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/Network Tables/SD Write Boolean Array.vi"/>
+				<Item Name="NI_Vision_Development_Module.lvlib" Type="Library" URL="/&lt;vilib&gt;/vision/NI_Vision_Development_Module.lvlib"/>
+				<Item Name="Particle Parameters" Type="VI" URL="/&lt;vilib&gt;/vision/Image Controls.llb/Particle Parameters"/>
+				<Item Name="Color to RGB.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/colorconv.llb/Color to RGB.vi"/>
+				<Item Name="IMAQ Overlay Text" Type="VI" URL="/&lt;vilib&gt;/vision/Overlay.llb/IMAQ Overlay Text"/>
+				<Item Name="IMAQ Overlay Rectangle" Type="VI" URL="/&lt;vilib&gt;/vision/Overlay.llb/IMAQ Overlay Rectangle"/>
+				<Item Name="IMAQ Clear Overlay" Type="VI" URL="/&lt;vilib&gt;/vision/Overlay.llb/IMAQ Clear Overlay"/>
+				<Item Name="IMAQ Merge Overlay" Type="VI" URL="/&lt;vilib&gt;/vision/Overlay.llb/IMAQ Merge Overlay"/>
+				<Item Name="SD Write Number.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/Network Tables/SD Write Number.vi"/>
 				<Item Name="WPI_CameraConvert Version String to Header String.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/Camera/WPI_CameraConvert Version String to Header String.vi"/>
 				<Item Name="WPI_CameraSend Image String To PC 1.0.0.0.vi" Type="VI" URL="/&lt;vilib&gt;/Rock Robotics/WPI/Camera/WPI_CameraSend Image String To PC 1.0.0.0.vi"/>
 				<Item Name="TCP Listen.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/tcp.llb/TCP Listen.vi"/>
@@ -679,6 +687,18 @@ KeepAliveTimeout 60
 			<Item Name="NiFpgaLv.dll" Type="Document" URL="NiFpgaLv.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
+			<Item Name="nivision.dll" Type="Document" URL="nivision.dll">
+				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
+			</Item>
+			<Item Name="Compute HSL Color Ranges.vi" Type="VI" URL="../../../../../../../Program Files (x86)/National Instruments/LabVIEW 2012/examples/FRC/Vision/Rectangular Target - 2013/Compute HSL Color Ranges.vi"/>
+			<Item Name="Normalized Range Compare.vi" Type="VI" URL="../../../../../../../Program Files (x86)/National Instruments/LabVIEW 2012/examples/FRC/Vision/Rectangular Target - 2013/Normalized Range Compare.vi"/>
+			<Item Name="Rectangularity Score.vi" Type="VI" URL="../../../../../../../Program Files (x86)/National Instruments/LabVIEW 2012/examples/FRC/Vision/Rectangular Target - 2013/Rectangularity Score.vi"/>
+			<Item Name="Aspect Ratio Score.vi" Type="VI" URL="../../../../../../../Program Files (x86)/National Instruments/LabVIEW 2012/examples/FRC/Vision/Rectangular Target - 2013/Aspect Ratio Score.vi"/>
+			<Item Name="Sorted Particle Report.vi" Type="VI" URL="../../../../../../../Program Files (x86)/National Instruments/LabVIEW 2012/examples/FRC/Vision/Rectangular Target - 2013/Sorted Particle Report.vi"/>
+			<Item Name="Score Particles.vi" Type="VI" URL="../../../../../../../Program Files (x86)/National Instruments/LabVIEW 2012/examples/FRC/Vision/Rectangular Target - 2013/Score Particles.vi"/>
+			<Item Name="Compute Distance.vi" Type="VI" URL="../../../../../../../Program Files (x86)/National Instruments/LabVIEW 2012/examples/FRC/Vision/Rectangular Target - 2013/Compute Distance.vi"/>
+			<Item Name="Draw Filled Rect.vi" Type="VI" URL="../../../../../../../Program Files (x86)/National Instruments/LabVIEW 2012/examples/FRC/Vision/Rectangular Target - 2013/Draw Filled Rect.vi"/>
+			<Item Name="RT Overlay Helper.vi" Type="VI" URL="../../../../../../../Program Files (x86)/National Instruments/LabVIEW 2012/examples/FRC/Vision/Rectangular Target - 2013/RT Overlay Helper.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="FRC Robot Boot-up Deployment" Type="{69A947D5-514E-4E75-818E-69657C0547D8}">
