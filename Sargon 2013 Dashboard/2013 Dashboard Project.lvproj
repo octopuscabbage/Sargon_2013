@@ -155,14 +155,14 @@
 			</Item>
 			<Item Name="Get All Users Directory.vi" Type="VI" URL="../Get All Users Directory.vi"/>
 			<Item Name="FPS Calculator.vi" Type="VI" URL="../FPS Calculator.vi"/>
-			<Item Name="Normalized Range Compare.vi" Type="VI" URL="../../../../../../../Program Files (x86)/National Instruments/LabVIEW 2012/examples/FRC/Vision/Rectangular Target - 2013/Normalized Range Compare.vi"/>
-			<Item Name="Rectangularity Score.vi" Type="VI" URL="../../../../../../../Program Files (x86)/National Instruments/LabVIEW 2012/examples/FRC/Vision/Rectangular Target - 2013/Rectangularity Score.vi"/>
-			<Item Name="Aspect Ratio Score.vi" Type="VI" URL="../../../../../../../Program Files (x86)/National Instruments/LabVIEW 2012/examples/FRC/Vision/Rectangular Target - 2013/Aspect Ratio Score.vi"/>
-			<Item Name="Sorted Particle Report.vi" Type="VI" URL="../../../../../../../Program Files (x86)/National Instruments/LabVIEW 2012/examples/FRC/Vision/Rectangular Target - 2013/Sorted Particle Report.vi"/>
 			<Item Name="Score Particles.vi" Type="VI" URL="../../../../../../../Program Files (x86)/National Instruments/LabVIEW 2012/examples/FRC/Vision/Rectangular Target - 2013/Score Particles.vi"/>
 			<Item Name="Compute Distance.vi" Type="VI" URL="../../../../../../../Program Files (x86)/National Instruments/LabVIEW 2012/examples/FRC/Vision/Rectangular Target - 2013/Compute Distance.vi"/>
 			<Item Name="Draw Filled Rect.vi" Type="VI" URL="../../../../../../../Program Files (x86)/National Instruments/LabVIEW 2012/examples/FRC/Vision/Rectangular Target - 2013/Draw Filled Rect.vi"/>
 			<Item Name="RT Overlay Helper.vi" Type="VI" URL="../../../../../../../Program Files (x86)/National Instruments/LabVIEW 2012/examples/FRC/Vision/Rectangular Target - 2013/RT Overlay Helper.vi"/>
+			<Item Name="Sorted Particle Report.vi" Type="VI" URL="../../Sargon 2013 Robot Project/Sorted Particle Report.vi"/>
+			<Item Name="Aspect Ratio Score.vi" Type="VI" URL="../../Sargon 2013 Robot Project/Aspect Ratio Score.vi"/>
+			<Item Name="Rectangularity Score.vi" Type="VI" URL="../../Sargon 2013 Robot Project/Rectangularity Score.vi"/>
+			<Item Name="Normalized Range Compare.vi" Type="VI" URL="../../Sargon 2013 Robot Project/Normalized Range Compare.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="FRC PC Dashboard" Type="EXE">
@@ -193,7 +193,7 @@
 				<Property Name="SourceCount" Type="Int">2</Property>
 				<Property Name="TgtF_autoIncrement" Type="Bool">true</Property>
 				<Property Name="TgtF_fileDescription" Type="Str">FRC PC Dashboard</Property>
-				<Property Name="TgtF_fileVersion.build" Type="Int">15</Property>
+				<Property Name="TgtF_fileVersion.build" Type="Int">16</Property>
 				<Property Name="TgtF_fileVersion.major" Type="Int">5</Property>
 				<Property Name="TgtF_internalName" Type="Str">FRC PC Dashboard</Property>
 				<Property Name="TgtF_targetfileGUID" Type="Str">{AEE2EF3D-7087-47D6-AEAE-9F87F896ED5E}</Property>
